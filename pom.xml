@@ -14,8 +14,8 @@
         <url>http://www.bahlsengroup.com/</url>
     </organization>
 
-    <name>spacebp</name>
-    <description>This is the com.example.plugins.tutorial.confluence.spacebp:spacebp plugin for Atlassian Confluence.</description>
+    <name>Space Blueprints for Teams and Projects</name>
+    <description>This is the Space Blueprints for Teams and Projects plugin for Atlassian Confluence.</description>
     <packaging>atlassian-plugin</packaging>
 
     <dependencies>

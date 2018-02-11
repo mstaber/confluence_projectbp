@@ -59,6 +59,7 @@
         <resource name="template" type="download" location="/xml/project-space-home.xml"/>
         <!--<context-provider class="com.example.plugins.tutorial.confluence.simplebp.MyContextProvider"/>-->
     </content-template>
+
     <!-- Team Space -->
     <web-item key='example-space-blueprint2-item' i18n-name-key='confluence.blueprints.space.example.name'
               section='system.create.space.dialog/content'>
@@ -68,11 +69,9 @@
     </web-item>
 
     <space-blueprint key="example-space-blueprint2" i18n-name-key="confluence.blueprints.space.example.name">
-        <content-template ref="team-homepage-template" >
             <content-template ref="space-team-home-template"/>
-        </content-template>
         <dialog-wizard key="example-space-blueprint2-wizard">
-            <dialog-page id="exampleSpaceId"
+            <dialog-page id="exampleSpaceId2"
                          template-key="Confluence.SpaceBlueprints.Example.dialogForm"
                          title-key="confluence.blueprints.space.example.dialog.create.title"
                          description-header-key="confluence.blueprints.space.example.dialog.create.heading"
@@ -80,8 +79,8 @@
                          last="true"/>
         </dialog-wizard>
     </space-blueprint>
-    <content-template key="team-homepage-template" i18n-name-key="confluence.blueprints.space.example.homepage.name">
-        <description key="confluence.blueprints.space.example.homepage.desc"/>
+    <content-template key="team-homepage-template" i18n-name-key="confluence.blueprints.space.team.homepage.name">
+        <description key="confluence.blueprints.space.team.homepage.desc"/>
         <resource name="template" type="download" location="/xml/team-space-home.xml"/>
     </content-template>
     <content-template key="space-team-home-template" i18n-name-key="confluence.blueprints.space.example.team.name">

@@ -18,8 +18,8 @@ AJS.bind("blueprint.wizard-register.ready", function () {
         wizard.on("post-render.exampleSpaceId", Confluence.SpaceBlueprint.CommonWizardBindings.postRender);
     });
     Confluence.Blueprint.setWizard('com.example.plugins.tutorial.confluence.spacebp.spacebp:example-space-blueprint2-item', function(wizard) {
-        wizard.on("submit.exampleSpaceId", submitTeamSpace);
-        wizard.on("pre-render.exampleSpaceId", preRenderExampleSpace);
-        wizard.on("post-render.exampleSpaceId", Confluence.SpaceBlueprint.CommonWizardBindings.postRender);
+        wizard.on("submit.exampleSpaceId2", submitTeamSpace);
+        wizard.on("pre-render.exampleSpaceId2", preRenderExampleSpace);
+        wizard.on("post-render.exampleSpaceId2", Confluence.SpaceBlueprint.CommonWizardBindings.postRender);
     });
 });
