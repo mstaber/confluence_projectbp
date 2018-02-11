@@ -1,0 +1,6 @@
+<ac:layout><ac:layout-section ac:type="two_right_sidebar"><ac:layout-cell>
+    <p class="auto-cursor-target"><br /></p><ac:structured-macro ac:name="panel" ac:schema-version="1" ac:macro-id="7b400e03-3878-4640-a0c8-9a6d2a5813a5"><ac:parameter ac:name="titleColor">white</ac:parameter><ac:parameter ac:name="titleBGColor">#003598</ac:parameter><ac:parameter ac:name="borderStyle">none</ac:parameter><ac:parameter ac:name="title">Why</ac:parameter><ac:rich-text-body>
+    <p><br /></p></ac:rich-text-body></ac:structured-macro>
+    <p class="auto-cursor-target"><br /></p></ac:layout-cell><ac:layout-cell>
+    <p><ac:structured-macro ac:name="display-metadata" ac:schema-version="1" ac:macro-id="723e7c8c-8f99-44dd-8a00-18d4119c1c40" /></p></ac:layout-cell></ac:layout-section><ac:layout-section ac:type="single"><ac:layout-cell>
+    <p><ac:structured-macro ac:name="recently-updated" ac:schema-version="1" ac:macro-id="64d42879-e1be-4418-a0be-243d3b5648de" /></p></ac:layout-cell></ac:layout-section></ac:layout>

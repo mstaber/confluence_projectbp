@@ -1,0 +1,11 @@
+<ac:layout>
+    <ac:layout-section ac:type="two_equal">
+        <ac:layout-cell>
+            <p class="auto-cursor-target"><br /></p><ac:structured-macro ac:name="panel" ac:schema-version="1" ac:macro-id="169bf64a-b3b5-4786-b97b-b4bc0f85ef09"><ac:parameter ac:name="titleColor">white</ac:parameter><ac:parameter ac:name="titleBGColor">#003598</ac:parameter><ac:parameter ac:name="borderStyle">none</ac:parameter><ac:parameter ac:name="title">About us</ac:parameter><ac:rich-text-body><br /></ac:rich-text-body></ac:structured-macro>
+            <p class="auto-cursor-target"><br /></p></ac:layout-cell><ac:layout-cell>
+            <p class="auto-cursor-target"><br /></p><ac:structured-macro ac:name="panel" ac:schema-version="1" ac:macro-id="b890ed2f-9b0a-4755-b2a3-d28ac88be3e9"><ac:parameter ac:name="titleColor">white</ac:parameter><ac:parameter ac:name="titleBGColor">#003598</ac:parameter><ac:parameter ac:name="borderStyle">none</ac:parameter><ac:parameter ac:name="title">Teamstructure</ac:parameter><ac:rich-text-body>
+            <p><ac:structured-macro ac:name="company-org-chart" ac:schema-version="1" ac:macro-id="7c2d0e09-7d46-4808-b40d-bd283f278dab"><ac:parameter ac:name="mode">namedFields</ac:parameter><ac:parameter ac:name="user"><ri:user ri:userkey="8a3081bb5f29a532015f3920484402b9" /></ac:parameter><ac:parameter ac:name="namedFields">Position, Roles and Skills</ac:parameter></ac:structured-macro></p></ac:rich-text-body></ac:structured-macro>
+            <p class="auto-cursor-target"><br /></p>
+        </ac:layout-cell>
+    </ac:layout-section>
+</ac:layout>
